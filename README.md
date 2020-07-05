@@ -14,7 +14,11 @@ The official codes for paper "Hyperspectral Image Classification Based on 3D Oct
     The image preprocessing includes data normalization and patch cutting. 
     In our experiments, the patch size is set to 13*13, and the training set and testing set are divided.
     For your convenience, we have uploaded the compiled training and test sets. If you want to divide the 
-    data set yourself, run the program data_prosess.py
-        
+    data set yourself, run the program data_prosess.py       
 ## train
+    All the configurations are in model.py, and you can modify them by your needs. You should download 
+    model.py for training and testing data set.
+    
+#### train the model
+    Please run the program train.py
 ## test
