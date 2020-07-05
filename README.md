@@ -16,9 +16,9 @@ The official codes for paper "Hyperspectral Image Classification Based on 3D Oct
     For your convenience, we have uploaded the compiled training and test sets. If you want to divide the 
     data set yourself, run the program `data_prosess.py'      
 ## train
-    All the configurations are in model.py, and you can modify them by your needs. You should download 
-    model.py for training and testing data set.
-    
+    All the configurations are diaplayed in `model.py', and you can modify them by your needs. Please download the
+    `model.py' for training and testing data set first.    
 #### train the model
-    Please run the program train.py
+    Please run the program 'train.py' and save the parameters. In the `train.py', the path to read the data
+    should be changed according to your own situation.
 ## test
