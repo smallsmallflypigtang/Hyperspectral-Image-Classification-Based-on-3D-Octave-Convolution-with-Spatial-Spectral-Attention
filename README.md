@@ -24,3 +24,4 @@ The official codes for paper "Hyperspectral Image Classification Based on 3D Oct
 ## test
     Please read the saved parameters and run the program 'test.py'. In the `test.py', the path to read the data
     should be changed according to your own situation.
+    
