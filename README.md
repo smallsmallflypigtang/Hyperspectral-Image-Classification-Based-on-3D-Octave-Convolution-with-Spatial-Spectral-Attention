@@ -13,8 +13,7 @@ The official codes for paper "Hyperspectral Image Classification Based on 3D Oct
     Since the input of our network is patch, it is necessary to preprocess the original hyperspectral image. 
     The image preprocessing includes data normalization and patch cutting. 
     In our experiments, the patch size is set to 13*13, and the training set and testing set are divided.
-    For your convenience, we have uploaded the compiled training and test sets. If you want to divide the 
-    data set yourself, run the program `data_prosess.py'      
+    If you want to divide the data set, run the program `data_prosess.py'      
 ## train
     All the configurations are diaplayed in `model.py', and you can modify them by your needs. Please download the
     `model.py' for training and testing data set first.    
